@@ -42,7 +42,7 @@ Meet the talented team behind Mix Matic Pro:
 
 ## **Project Media: Photos & Testing Videos**
 
-You can view all the photos and testing videos of the MixMatic Pro project in our Google Drive folder: [MixMatic Pro - Media Gallery](link_to_google_drive_folder)
+You can view all the photos and testing videos of the MixMatic Pro project in our Google Drive folder: [MixMatic Pro - Media Gallery](https://drive.google.com/drive/folders/1REZRBOP4_gMmep3QpdU-Q6GdGuSCkr4p?usp=sharing)
 
 
 
